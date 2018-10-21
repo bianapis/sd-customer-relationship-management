@@ -1,0 +1,10 @@
+{
+  "customerIncidentType" : "Customer Incident Type",
+  "customerIncidentResolution" : "narrative of resolution actions",
+  "employeeBusinessUnitReference" : "EMP4678",
+  "customerRelationshipPlanReference" : "CRPR72546",
+  "customerIncidentDescription" : "narrative of cause/impact",
+  "customerIncidentReference" : "CIR7235244",
+  "customerReference" : "CR736235",
+  "productServiceActivityReference" : "SAR72365425"
+}

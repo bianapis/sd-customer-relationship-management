@@ -1,0 +1,17 @@
+{
+  "customerProductUsage" : "product activity",
+  "customerRelationshipContactHistory" : "Customer Relationship Contact History",
+  "customerInsightType" : "retention candidate",
+  "customerBudget" : "arget income and allowed expenses/discounts",
+  "employeeBusinessUnitReference" : "EBU7264424",
+  "customerRelationshipPlanReference" : "CRPR762542",
+  "customerInsightDescription" : "Customer Insight Description",
+  "customerProductCoverage" : "product/service coverage",
+  "customerSalesPlan" : "target product sales and associated contact schedule",
+  "customerRelationshipPlan" : "details planned and actual product coverage and profitability and relationship development and trouble-shooting",
+  "customerReference" : "CRM4658",
+  "customerProfitability" : "assessment of net business impact of relationship",
+  "customerRelationshipRatingType" : "credit",
+  "customerRelationshipRating" : "customer Relationship Rating",
+  "customerProductEligibilityProfile" : "unsold/eligible products"
+}

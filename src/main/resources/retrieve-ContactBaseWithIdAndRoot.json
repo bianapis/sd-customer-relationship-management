@@ -1,0 +1,12 @@
+{
+  "customerRelationshipPlanReference" : "8Z232342",
+  "employeeReference" : "8Z232342",
+  "customerRelationshipContactSchedule" : "CustomerRelationshipContact Schedule",
+  "customerRelationshipContactType" : "type/purpose of contact",
+  "customerReference" : "8Z232342",
+  "customerRelationshipContactHistory" : "Customer Relationship Contact History",
+  "customerContactReference" : "8Z232342",
+  "customerRelationshipContactDateTimeLocation" : "2018-09-02 16:34:00 EST New York USA",
+  "customerRelationshipContactResult" : "Customer Relationship Contact Result",
+  "customerRelationshipContactRecord" : "log of contact"
+}
